@@ -1,9 +1,20 @@
-# conversormoedas
+# Currency Converter
+Repository for project Currency Converter
 
-A new Flutter application.
+# Description
+the project receives a value as input in one of the three available fields, with that information it converts the value to the other monetary systems.
+
+# Technologies
+The application was full developed using flutter.
+
+# Screenshots
+
+<p float="left">
+  <img src='screenshot/Main.png'/ width='200'>
+  <img src='screenshot/Cash.png'/ width='200'>
+</p>
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
